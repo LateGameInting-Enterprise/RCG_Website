@@ -17,7 +17,8 @@ var things = [
     'Taric', 'Teemo', 'Thresh', 'Tristana', 'Trundle', 'Tryndamere', 'Twisted Fate',
     'Twitch', 'Udyr', 'Urgot', 'Varus', 'Vayne', 'Veigar', 'Vel Koz', 'Vi', 'Viktor',
     'Vladimir', 'Volibear', 'Warwick', 'Wukong', 'Xayah', 'Xerath', 'Xin Zhao', 'Yasuo',
-    'Yone', 'Yorick', 'Yuumi', 'Zac', 'Zed', 'Ziggs', 'Zilean', 'Zoe', 'Zyra', 'Mel', 'Ambessa', 'Aurora', 'Smolder', 'Hwei', 'Naafiri', 'Yunara'
+    'Yone', 'Yorick', 'Yuumi', 'Zac', 'Zed', 'Ziggs', 'Zilean', 'Zoe', 'Zyra', 'Mel', 
+    'Ambessa', 'Aurora', 'Smolder', 'Hwei', 'Naafiri', 'Yunara'
 ];
 
 var thing = things[Math.floor(Math.random()*things.length)];

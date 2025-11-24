@@ -1,0 +1,17 @@
+.header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 0px;
+  padding: 0px;
+  height: 100px;
+
+  background-color: brown;
+}
+.txt-header{
+  font-family: Thunder-Black-Italic, sans-serif;
+  font-size: 60px;
+
+  color: white;
+}

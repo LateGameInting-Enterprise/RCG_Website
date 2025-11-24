@@ -1,0 +1,26 @@
+.generator-button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.knopp{
+  height: 100px;
+  width: 150px;
+  
+  font-size: 24px;
+  font-family: Thunder-Medium, sans-serif;
+
+  background-color: lightblue;
+  color: black;
+  border: 2px rgb(118, 189, 212) solid;
+  border-radius: 10px;
+}
+.knopp:hover{
+  cursor: pointer;
+}
+.knopp:active{
+  background-color: rgb(118, 189, 212);
+  color: black;
+  border: 2px rgb(118, 189, 212) solid;
+  border-radius: 10px;
+}

@@ -3,15 +3,21 @@
   justify-content: center;
   align-items: center;
 
-  margin: 0px;
-  padding: 0px;
-  height: 100px;
+  width: 400px;
+
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  bottom: 0px;
 
   background-color: brown;
 }
 .txt-header{
-  font-family: Thunder-Black-Italic, sans-serif;
+  font-family: ADLaM Display, sans-serif;
   font-size: 60px;
 
   color: white;
+}
+.txt-present{
+  font-family: Unbounded, sans-serif;
 }
